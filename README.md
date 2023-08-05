@@ -5,7 +5,7 @@
 
 # Install Method
 
-       git clone https://github.com/Devil-king2/Devil-old
+       git clone https://github.com/Dark-Devil-king/Devil-old
        cd Devil-old
        python Devil-old_Tutul-Enc.py
 
